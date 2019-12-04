@@ -9,7 +9,7 @@ Spring Cloud Greenwich | 2.1.1.RELEASE | 2.1.X.RELEASE
 
 2.pom.xml中需要先引入依赖：spring-cloud-alibaba-dependencies，再引入依赖：spring-cloud-starter-alibaba-sentinel、sentinel-datasource-nacos
 
-3.启动 Sentinel Dashboard：https://www.cnblogs.com/cag2050/p/11970999.html，启动 Nacos：https://www.cnblogs.com/cag2050/p/11918293.html
+3.启动 Sentinel Dashboard：https://www.cnblogs.com/cag2050/p/11970999.html ，启动 Nacos：https://www.cnblogs.com/cag2050/p/11918293.html
 
 ### 参考资料
 
